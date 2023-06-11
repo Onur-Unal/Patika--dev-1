@@ -1,0 +1,1 @@
+Başlangıç Seviye Frontend Web Development Patikası kapsamında JavaScript Ödevi-1
